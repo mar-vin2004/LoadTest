@@ -39,12 +39,12 @@ Este teste permite simular o acesso simultâneo de múltiplos usuários a um det
 Segue em anexo os screenshots solicitados:
 
 1. **Print do Backend Rodando**
-   ![Texto Alternativo](./assets/backend.jpeg)
+   ![backend](./assets/backend.jpeg)
 
 2. **Print do K6 Rodando**
-   ![Texto Alternativo](k6.jpeg)
+   ![k6](./assets/k6.jpeg)
 
 3. **Print do Docker Rodando**
-   ![Texto Alternativo](docker.jpeg)
+   ![docker](./assets/docker.jpeg)
 
 
