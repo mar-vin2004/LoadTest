@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
